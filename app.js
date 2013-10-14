@@ -1,0 +1,1 @@
+var friendsApp = angular.module('AngularFriends',[]);

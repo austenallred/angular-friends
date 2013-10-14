@@ -1,4 +1,4 @@
-[
+$scope.friends = [
     {
         "name": "Naishi Zhang",
         "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/174266_842841_1023237973_q.jpg",
